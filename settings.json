@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+    "workbench.colorCustomizations": {
+        "[Community Material Theme Ocean]": {}
+    },
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "editor.fontSize": 14,
+    "editor.fontFamily":"Consolas, 'Courier New', monospace",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "terminal.integrated.fontSize": 14,
+    "workbench.list.smoothScrolling": true,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+    }
+}
