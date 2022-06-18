@@ -8,6 +8,7 @@
     "editor.fontFamily":"Consolas, 'Courier New', monospace",
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": true,
+    "window.menuBarVisibility": "compact",
     "terminal.integrated.fontSize": 14,
     "workbench.list.smoothScrolling": true,
     "workbench.statusBar.visible": false,
